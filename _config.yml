@@ -1,14 +1,26 @@
-layout_spectrum: 0.03889049
-typography_spectrum: 0.5292652
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6240838
-  lightness: 0.9225217
   brandStrength: 0.3870832
-  rhythmicContrast: 0.03173597
+  lightness: 0
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#919088'
+    - '#BEBDB4'
+    - '#151515'
+    - '#E9EAE8'
+    - '#5B9131'
+  rhythmicContrast: 0.03173597
+typography_spectrum: 0.09677419
+layout_spectrum: 0
 name: To be yourself
