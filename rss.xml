@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[To be yourself]]></title>
+        <description><![CDATA[To be yourself]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 08:36:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am a brave girl ]]></title>
+            <description><![CDATA[<article><h1>I am a brave girl </h1><p>I am a brave girl</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80bcfa4b-bb5e-4201-a633-aa4844e5b547.png"></article>]]></description>
+            <link>undefinedi-am-a-brave-girl/index.html</link>
+            <guid isPermaLink="false">c6a6affd-e152-4b0f-8b22-759fd007bb12</guid>
+            <pubDate>Mon, 04 Apr 2016 08:35:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
